@@ -61,3 +61,7 @@ button:focus-visible {
 	background-color: #646cff;
 	color: white;
 }
+
+.specialBtn:hover {
+	border-color: blue;
+}
