@@ -1,7 +1,7 @@
 <script>
   import ReviewCard from "./ReviewCard.svelte";
   import SectionWrapper from "./SectionWrapper.svelte"
-	import Stars from "./Stars.svelte";
+  import Stars from "./Stars.svelte";
   
 
   let lim = true;
